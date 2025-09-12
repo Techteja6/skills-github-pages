@@ -24,6 +24,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 2: Configure your site
 
+
 _You turned on GitHub Pages! :tada:_
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
@@ -46,6 +47,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+
 
 <!--
   <<< Author notes: Footer >>>
